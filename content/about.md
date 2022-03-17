@@ -30,9 +30,9 @@ Our Governing Committee administers the financial sponsorships made via [Open Co
 - Google
 - Meta
 - Microsoft
-- Samsung (associate member)
-- W3C (associate member)
-- Jory Burson (associate member)
+- Daniel Appelquist (associate member, Samsung Internet employee)
+- Dominique Hazael-Massieux (associate member, W3C employee)
+- Jory Burson (associate member, OpenJS Foundation / Linux Foundation)
 
 ### Steering Committee
 
