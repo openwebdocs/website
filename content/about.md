@@ -30,9 +30,12 @@ Our Governing Committee administers the financial sponsorships made via [Open Co
 - Google
 - Meta
 - Microsoft
-- Daniel Appelquist (associate member, Samsung Internet employee)
-- Dominique Hazael-Massieux (associate member, W3C employee)
-- Jory Burson (associate member, OpenJS Foundation / Linux Foundation)
+
+In addition, the following individuals are advisory members on the OWD governing committee:
+
+- Daniel Appelquist (Samsung Internet)
+- Dominique Hazael-Massieux (W3C)
+- Jory Burson (OpenJS Foundation / Linux Foundation)
 
 ### Steering Committee
 
