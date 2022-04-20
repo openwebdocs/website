@@ -35,7 +35,7 @@ In addition, the following individuals are advisory members on the OWD governing
 
 - Daniel Appelquist (Samsung Internet)
 - Dominique Hazael-Massieux (W3C)
-- Jory Burson (OpenJS Foundation / Linux Foundation)
+- Jory Burson (Volunteer)
 
 ### Steering Committee
 
