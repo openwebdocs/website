@@ -8,23 +8,23 @@ ShowBreadCrumbs: false
 
 _Originally published at https://opencollective.com/open-web-docs/updates/now-accepting-applications-open-web-docs-tech-writer-advocate_
 
-Are you passionate about the open web, technical documentation, and growing healthy, sustainable online communities? Join Open Web Docs! We're looking for an experienced technical writer to join Florian, Will, and an amazing community of contributors to help sustain web platform documentation. 
+Are you passionate about the open web, technical documentation, and growing healthy, sustainable online communities? Join Open Web Docs! We're looking for an experienced technical writer to join Florian, Will, and an amazing community of contributors to help sustain web platform documentation.
 
-This is a full-time, remote position on our small-but-mighty team. You'll work with people across multiple organizations and timezones to improve important web development resources like MDN. The salary for this role is $120,000 USD plus benefits paid in your local currency. Check out the job description below, and reach out to jory @ openwebdocs.org or florian @ openwebdocs.org with questions. 
+This is a full-time, remote position on our small-but-mighty team. You'll work with people across multiple organizations and timezones to improve important web development resources like MDN. The salary for this role is $120,000 USD plus benefits paid in your local currency. Check out the job description below, and reach out to jory @ openwebdocs.org or florian @ openwebdocs.org with questions.
 
-### Tech Writer / Advocate - [Apply Here](https://opencollective.com/redirect?url=https%3A%2F%2Fforms.gle%2FJc2nG1mKym8FXbsh6)
+### Tech Writer / Advocate - [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSeiperW7c7kD9WwMYaKN1hBTTkAPrdHJhd5UsFEygU6gHSZ3Q/closedform)
 
 **0/ What is Open Web Docs?**
 
-The Open Web Docs project is a collective of people and organizations contributing to the betterment of open web platform documentation for the benefit of web developers worldwide. In practice this means contributing to platforms such as MDN Web Docs and others, and taking a lead role on specific content projects within these platforms, in coordination with these platforms as appropriate. 
+The Open Web Docs project is a collective of people and organizations contributing to the betterment of open web platform documentation for the benefit of web developers worldwide. In practice this means contributing to platforms such as MDN Web Docs and others, and taking a lead role on specific content projects within these platforms, in coordination with these platforms as appropriate.
 
 **1/ Job Description**
 
-Open Web Docs is looking for a Senior team member with both technical writing and developer advocate skills to join our team. 
+Open Web Docs is looking for a Senior team member with both technical writing and developer advocate skills to join our team.
 
 You will both focus on writing projects, tooling and processes related to documentation for Web platform technologies as well as developer advocacy work such as blogging, promotion to the developer community, community management, social media and events.
 
-In particular, you'll be contributing to MDN Web Docs, and related efforts, with an independent editorial voice and championing the needs of the global population of web developers in prioritizing and executing on documentation. 
+In particular, you'll be contributing to MDN Web Docs, and related efforts, with an independent editorial voice and championing the needs of the global population of web developers in prioritizing and executing on documentation.
 
 As part of a growing team, you'll engage with the contributor community, the MDN Product Advisory Board, standards bodies, and other partners to propose, plan, and author new content, and maintain and improve existing documentation.
 
@@ -41,7 +41,7 @@ Together with other OWD team members and the Open Web Docs Steering Committee, y
 * Write blog posts, and other engagement with the developer community such as podcasts, interviews and use of social media
 * Establish and oversee processes that foster healthy communities and productive contributions on our project repositories
 * Build a vibrant and diverse community around Open Web Docs and MDN.
-* Provide strategic input on and contribute to key doc infrastructure projects (such as MDN Browser Compat Data) 
+* Provide strategic input on and contribute to key doc infrastructure projects (such as MDN Browser Compat Data)
 * Communicate with the Web documentation projects Governance Bodies such as the MDN PAB and partners
 * Contribute to the improvement of team process and style, as well as cross-functional efforts
 
@@ -58,4 +58,4 @@ Together with other OWD team members and the Open Web Docs Steering Committee, y
 * Technical community management experience
 * Experience with diversity & inclusion and/or codes of conduct programs within technology communities or open source projects
 
-[Apply Now](https://opencollective.com/redirect?url=https%3A%2F%2Fforms.gle%2FJc2nG1mKym8FXbsh6)
+[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSeiperW7c7kD9WwMYaKN1hBTTkAPrdHJhd5UsFEygU6gHSZ3Q/closedform)

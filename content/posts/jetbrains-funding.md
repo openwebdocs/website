@@ -10,7 +10,7 @@ _Originally published at https://opencollective.com/open-web-docs/updates/jetbra
 
 We’re excited to welcome JetBrains to the Open Web Docs Steering Committee!
 
-[JetBrains](https://opencollective.com/redirect?url=https%3A%2F%2Fwww.jetbrains.com%2F) is a software tooling vendor that created IntelliJ IDEA, WebStorm, and many other developer tools.
+[JetBrains](https://www.jetbrains.com/) is a software tooling vendor that created IntelliJ IDEA, WebStorm, and many other developer tools.
 
 > “More and more people in the JavaScript and web development community are recognizing the importance of good documentation. We at JetBrains recognize it, too. For many years, we’ve equipped our IDEs with MDN documentation, helping developers find information faster and when it’s most relevant.
 
