@@ -6,8 +6,6 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-_Originally published at https://opencollective.com/open-web-docs/updates/now-accepting-applications-open-web-docs-tech-writer-advocate_
-
 Are you passionate about the open web, technical documentation, and growing healthy, sustainable online communities? Join Open Web Docs! We're looking for an experienced technical writer to join Florian, Will, and an amazing community of contributors to help sustain web platform documentation.
 
 This is a full-time, remote position on our small-but-mighty team. You'll work with people across multiple organizations and timezones to improve important web development resources like MDN. The salary for this role is $120,000 USD plus benefits paid in your local currency. Check out the job description below, and reach out to jory @ openwebdocs.org or florian @ openwebdocs.org with questions.
@@ -59,3 +57,7 @@ Together with other OWD team members and the Open Web Docs Steering Committee, y
 * Experience with diversity & inclusion and/or codes of conduct programs within technology communities or open source projects
 
 [Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSeiperW7c7kD9WwMYaKN1hBTTkAPrdHJhd5UsFEygU6gHSZ3Q/closedform)
+
+---
+
+_Originally published at https://opencollective.com/open-web-docs/updates/now-accepting-applications-open-web-docs-tech-writer-advocate._

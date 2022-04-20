@@ -6,8 +6,6 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-_Originally published at https://opencollective.com/open-web-docs/updates/jetbrains-joins-open-web-docs_
-
 We’re excited to welcome JetBrains to the Open Web Docs Steering Committee!
 
 [JetBrains](https://www.jetbrains.com/) is a software tooling vendor that created IntelliJ IDEA, WebStorm, and many other developer tools.
@@ -19,3 +17,7 @@ We’re excited to welcome JetBrains to the Open Web Docs Steering Committee!
  – Piotr Tomiak, WebStorm Senior Software Developer.
 
 With a $20k donation, JetBrains helps us to get closer to our yearly goal to fully fund four full-time Tech Writers to work on Open Web Documentation.
+
+---
+
+_Originally published at https://opencollective.com/open-web-docs/updates/jetbrains-joins-open-web-docs._

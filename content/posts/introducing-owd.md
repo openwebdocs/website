@@ -6,8 +6,6 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-_Originally published at https://opencollective.com/open-web-docs/updates/introducing-open-web-docs_
-
 High-quality documentation for web platform technologies is a critically important component of our shared, open digital infrastructure. Today, we’re excited to publicly introduce [Open Web Docs](https://opencollective.com/open-web-docs/), a collective project designed to support a community of technical writers around strategic creation and long-term maintenance of web platform technology documentation that is open and inclusive for all.
 
 Open Web Docs was created to ensure the long-term health of web platform documentation on de facto standard resources like [MDN Web Docs](https://developer.mozilla.org/), independently of any single vendor or organization. Through full-time staff, community management, and our network of partner organizations, we enable these resources to better maintain and sustain documentation of core web platform technologies. Rather than create new documentation sites, Open Web Docs is committed to improving existing platforms through our contributions. 
@@ -41,3 +39,7 @@ A: Open Web Docs is funded by contributions from our founding sponsors Coil, Goo
 **Q: How do I get involved?**
 
 A: For funding, you can contribute to the project on our Open Source Collective [project page](https://opencollective.com/open-web-docs/). For collaboration opportunities or an interest in becoming a lead funder, please reach out to hello@oscollective.org.
+
+---
+
+_Originally published at https://opencollective.com/open-web-docs/updates/introducing-open-web-docs._

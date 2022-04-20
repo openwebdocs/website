@@ -6,9 +6,6 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-_Originally published at https://opencollective.com/open-web-docs/updates/join-open-web-docs-at-write-the-docs-prague-online_
-
-
 Open Web Docs (OWD) is excited to support the online [Write The Docs Prague conference](https://www.writethedocs.org/conf/prague/2021/), coming this October 3-5. 
 
 OWD team and community members will be attending the talks and participating in the Writing Day. Our goal in sponsoring this event is to learn the latest from and support our fellow documentarians, and to share our knowledge about documenting the Web platform.
@@ -22,3 +19,7 @@ Samsung Internet and Microsoft are generously underwriting our sponsorship throu
 We’re also looking forward to working with our partner, Daniel Beck of Mozilla, on the Write the Docs Writing Day where we are facilitating a session about contributing to MDN Web Docs.
 
 We’re looking forward to meeting the WTD community and working on improving the reliability and sustainability of web platform documentation. We hope to see you there!
+
+---
+
+_Originally published at https://opencollective.com/open-web-docs/updates/join-open-web-docs-at-write-the-docs-prague-online._
