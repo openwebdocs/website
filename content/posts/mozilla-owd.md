@@ -2,6 +2,7 @@
 author: "Florian Scholz"
 title: "Mozilla and Open Web Docs working together on MDN"
 date: "2022-03-17"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

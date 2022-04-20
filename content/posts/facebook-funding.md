@@ -2,6 +2,7 @@
 author: "Jory Burson"
 title: "Facebook Joins Open Web Docs as Lead Funder"
 date: "2021-05-04"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

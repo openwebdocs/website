@@ -2,6 +2,7 @@
 author: "Jory Burson"
 title: "Community Q&A Session - Join Us!"
 date: "2021-01-28"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---
@@ -19,5 +20,5 @@ We’re planning additional community calls throughout the year. Sign up for our
 _Special thanks to the W3C for hosting this Zoom webinar._
 
 ---
- 
+
 _Originally published at https://opencollective.com/open-web-docs/updates/community-q-and-a-session-join-us._

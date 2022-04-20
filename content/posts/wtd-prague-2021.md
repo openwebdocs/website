@@ -2,6 +2,7 @@
 author: "Jory Burson"
 title: "Join Open Web Docs at Write the Docs Prague Online!"
 date: "2021-09-23"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

@@ -2,6 +2,7 @@
 author: "Florian Scholz"
 title: "Will Bamberg Joins Open Web Docs Staff"
 date: "2021-02-16"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

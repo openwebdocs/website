@@ -2,6 +2,7 @@
 author: "Florian Scholz"
 title: "Jean-Yves Perrier Joins Open Web Docs Staff"
 date: "2021-08-02"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

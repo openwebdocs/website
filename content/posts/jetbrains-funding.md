@@ -2,6 +2,7 @@
 author: "Florian Scholz"
 title: "JetBrains Joins Open Web Docs"
 date: "2021-07-27"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

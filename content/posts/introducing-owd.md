@@ -2,6 +2,7 @@
 author: "Robert Nyman"
 title: "Introducing Open Web Docs"
 date: "2021-01-25"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

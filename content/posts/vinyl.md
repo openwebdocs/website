@@ -2,6 +2,7 @@
 author: "Florian Scholz"
 title: "Vinyl joins Open Web Docs to help maintain compat data"
 date: "2022-01-24"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

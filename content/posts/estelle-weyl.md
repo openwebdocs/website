@@ -2,6 +2,7 @@
 author: "Florian Scholz"
 title: "Estelle Weyl Joins Open Web Docs Staff"
 date: "2021-08-19"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---

@@ -2,6 +2,7 @@
 author: "Jory Burson"
 title: "Now Accepting Applications: Open Web Docs Tech Writer / Advocate"
 date: "2021-04-20"
+tags: ["announcements"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---
